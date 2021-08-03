@@ -2,7 +2,9 @@
 
 Minicourse on multiple timescale dynamics, UMich Summer 2021. 
 
-**Sources**: figures and examples have been cribbed shamelessly from various books and papers, most significantly Christian Kuehn's excellent text _Multiple Time Scale Dynamics_. We also refer to/steal from:
+**Sources**: figures and examples have been cribbed shamelessly from various books and papers, including, but probably not limited to:
+
+* _Multiple Time Scale Dynamics_ by Christian Kuehn
 
 * _Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields_ by Guckenheimer/Holmes
 
