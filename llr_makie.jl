@@ -63,7 +63,7 @@ end
 
 fig = Figure()
 ax = Axis(fig[1,1])
-sl = Slider(fig[2, 1], range = 1000:.05:1500, startvalue = 1000.0)
+sl = Slider(fig[2, 1], range = 1100:.05:1600, startvalue = 1100.0)
 
 obs = sl.value
 sol = @lift(tr($obs))
