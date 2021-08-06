@@ -11,3 +11,5 @@ Minicourse on multiple timescale dynamics, UMich Summer 2021.
 * _Centre Manifolds, Normal Forms, and Elementary Bifurcations_ by Andre Vanderbauwhede -- go here if you want to see gory details of the proof of the center manifold theorem
 
 * _Geometric singular perturbation analysis of an autocatalator model_, Gucwa and Szmolyan 2008
+
+* Canards in $R^3$
